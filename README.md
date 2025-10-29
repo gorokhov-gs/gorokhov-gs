@@ -6,11 +6,7 @@ My name is Gleb. I am a first-year bachelor's student at MIPT HSSE in Russia.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 October 2025 - To: 28 October 2025
-
-Total Time: 4 hrs 33 mins
-
-C++   4 hrs 33 mins   █████████████████████████   100.00 %
+C++   4 hrs 32 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
