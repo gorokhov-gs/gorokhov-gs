@@ -6,7 +6,11 @@ My name is Gleb. I am a first-year bachelor's student at MIPT HSSE in Russia.
 <!--START_SECTION:waka-->
 
 ```txt
-C++   4 hrs 32 mins   █████████████████████████   100.00 %
+C++          9 hrs 26 mins   ████████████████████████░   96.10 %
+Git Config   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+CMake        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
