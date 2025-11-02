@@ -5,8 +5,14 @@ on:
   schedule:
     - cron: "* */6 * * *"
 
+  push:
+    branches:
+    - master
+
 jobs:
   update-readme:
+    permissions:
+      contents: write
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
