@@ -3,7 +3,7 @@ name: Work Stats Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "* */6 * * *"
+    - cron: "0 0 * * *"
 
   push:
     branches:
@@ -19,3 +19,13 @@ jobs:
       - uses: athul/waka-readme@master 
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BLOCKS: ░▒▓
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          TIME_RANGE: last_30_days
+          LANG_COUNT: 5
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML
