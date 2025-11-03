@@ -1,5 +1,7 @@
 My name is Gleb. I am a first-year bachelor's student at MIPT HSSE in Russia.
 
+# 💻 Activity
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -15,3 +17,8 @@ XML          12 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+# 🧩 My Skills
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,qt,git,md)](https://skillicons.dev)
+## Currently Learning
+[![Currently Learning](https://skillicons.dev/icons?i=java,maven,spring)](https://skillicons.dev)
