@@ -22,6 +22,6 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 # 🧩 My Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,qt,git,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,qt,git,docker,md)](https://skillicons.dev)
 ## Currently Learning
-[![Currently Learning](https://skillicons.dev/icons?i=java,maven,spring)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=java,maven,postgresql)](https://skillicons.dev)
